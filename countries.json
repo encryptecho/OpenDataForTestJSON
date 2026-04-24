@@ -1,0 +1,344 @@
+[
+  {
+    "id": 1,
+    "name": "Afghanistan",
+    "code": "AF",
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "name": "Albania",
+    "code": "AL",
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "name": "Algeria",
+    "code": "DZ",
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "name": "Azerbaijan",
+    "code": "AZ",
+    "is_active": true
+  },
+  {
+    "id": 5,
+    "name": "Bahrain",
+    "code": "BH",
+    "is_active": true
+  },
+  {
+    "id": 6,
+    "name": "Bangladesh",
+    "code": "BD",
+    "is_active": true
+  },
+  {
+    "id": 7,
+    "name": "Benin",
+    "code": "BJ",
+    "is_active": true
+  },
+  {
+    "id": 8,
+    "name": "Brunei",
+    "code": "BN",
+    "is_active": true
+  },
+  {
+    "id": 9,
+    "name": "Burkina Faso",
+    "code": "BF",
+    "is_active": true
+  },
+  {
+    "id": 10,
+    "name": "Cameroon",
+    "code": "CM",
+    "is_active": true
+  },
+  {
+    "id": 11,
+    "name": "Chad",
+    "code": "TD",
+    "is_active": true
+  },
+  {
+    "id": 12,
+    "name": "Comoros",
+    "code": "KM",
+    "is_active": true
+  },
+  {
+    "id": 13,
+    "name": "Cote d'Ivoire",
+    "code": "CI",
+    "is_active": true
+  },
+  {
+    "id": 14,
+    "name": "Djibouti",
+    "code": "DJ",
+    "is_active": true
+  },
+  {
+    "id": 15,
+    "name": "Egypt",
+    "code": "EG",
+    "is_active": true
+  },
+  {
+    "id": 16,
+    "name": "Gabon",
+    "code": "GA",
+    "is_active": true
+  },
+  {
+    "id": 17,
+    "name": "The Gambia",
+    "code": "GM",
+    "is_active": true
+  },
+  {
+    "id": 18,
+    "name": "Guinea",
+    "code": "GN",
+    "is_active": true
+  },
+  {
+    "id": 19,
+    "name": "Guinea-Bissau",
+    "code": "GW",
+    "is_active": true
+  },
+  {
+    "id": 20,
+    "name": "Guyana",
+    "code": "GY",
+    "is_active": true
+  },
+  {
+    "id": 21,
+    "name": "Indonesia",
+    "code": "ID",
+    "is_active": true
+  },
+  {
+    "id": 22,
+    "name": "Iran",
+    "code": "IR",
+    "is_active": true
+  },
+  {
+    "id": 23,
+    "name": "Iraq",
+    "code": "IQ",
+    "is_active": true
+  },
+  {
+    "id": 24,
+    "name": "Jordan",
+    "code": "JO",
+    "is_active": true
+  },
+  {
+    "id": 25,
+    "name": "Kazakhstan",
+    "code": "KZ",
+    "is_active": true
+  },
+  {
+    "id": 26,
+    "name": "Kuwait",
+    "code": "KW",
+    "is_active": true
+  },
+  {
+    "id": 27,
+    "name": "Kyrgyzstan",
+    "code": "KG",
+    "is_active": true
+  },
+  {
+    "id": 28,
+    "name": "Lebanon",
+    "code": "LB",
+    "is_active": true
+  },
+  {
+    "id": 29,
+    "name": "Libya",
+    "code": "LY",
+    "is_active": true
+  },
+  {
+    "id": 30,
+    "name": "Malaysia",
+    "code": "MY",
+    "is_active": true
+  },
+  {
+    "id": 31,
+    "name": "Maldives",
+    "code": "MV",
+    "is_active": true
+  },
+  {
+    "id": 32,
+    "name": "Mali",
+    "code": "ML",
+    "is_active": true
+  },
+  {
+    "id": 33,
+    "name": "Mauritania",
+    "code": "MR",
+    "is_active": true
+  },
+  {
+    "id": 34,
+    "name": "Morocco",
+    "code": "MA",
+    "is_active": true
+  },
+  {
+    "id": 35,
+    "name": "Mozambique",
+    "code": "MZ",
+    "is_active": true
+  },
+  {
+    "id": 36,
+    "name": "Niger",
+    "code": "NE",
+    "is_active": true
+  },
+  {
+    "id": 37,
+    "name": "Nigeria",
+    "code": "NG",
+    "is_active": true
+  },
+  {
+    "id": 38,
+    "name": "Oman",
+    "code": "OM",
+    "is_active": true
+  },
+  {
+    "id": 39,
+    "name": "Pakistan",
+    "code": "PK",
+    "is_active": true
+  },
+  {
+    "id": 40,
+    "name": "Palestine",
+    "code": "PS",
+    "is_active": true
+  },
+  {
+    "id": 41,
+    "name": "Qatar",
+    "code": "QA",
+    "is_active": true
+  },
+  {
+    "id": 42,
+    "name": "Saudi Arabia",
+    "code": "SA",
+    "is_active": true
+  },
+  {
+    "id": 43,
+    "name": "Senegal",
+    "code": "SN",
+    "is_active": true
+  },
+  {
+    "id": 44,
+    "name": "Sierra Leone",
+    "code": "SL",
+    "is_active": true
+  },
+  {
+    "id": 45,
+    "name": "Somalia",
+    "code": "SO",
+    "is_active": true
+  },
+  {
+    "id": 46,
+    "name": "Sudan",
+    "code": "SD",
+    "is_active": true
+  },
+  {
+    "id": 47,
+    "name": "Suriname",
+    "code": "SR",
+    "is_active": true
+  },
+  {
+    "id": 48,
+    "name": "Syria",
+    "code": "SY",
+    "is_active": true
+  },
+  {
+    "id": 49,
+    "name": "Tajikistan",
+    "code": "TJ",
+    "is_active": true
+  },
+  {
+    "id": 50,
+    "name": "Togo",
+    "code": "TG",
+    "is_active": true
+  },
+  {
+    "id": 51,
+    "name": "Tunisia",
+    "code": "TN",
+    "is_active": true
+  },
+  {
+    "id": 52,
+    "name": "Turkey",
+    "code": "TR",
+    "is_active": true
+  },
+  {
+    "id": 53,
+    "name": "Turkmenistan",
+    "code": "TM",
+    "is_active": true
+  },
+  {
+    "id": 54,
+    "name": "Uganda",
+    "code": "UG",
+    "is_active": true
+  },
+  {
+    "id": 55,
+    "name": "United Arab Emirates",
+    "code": "AE",
+    "is_active": true
+  },
+  {
+    "id": 56,
+    "name": "Uzbekistan",
+    "code": "UZ",
+    "is_active": true
+  },
+  {
+    "id": 57,
+    "name": "Yemen",
+    "code": "YE",
+    "is_active": true
+  }
+]
